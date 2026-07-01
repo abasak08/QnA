@@ -8,7 +8,7 @@
 * $\nu_\mu$ tracks are pure so why do we need to take hardronic energy into account to identify $\nu_\mu$ CC evernt?
     **Answer:** When we reconstruct energy of CC interaction based on the how much energy is deposited inside the detector by the corresponding charged lepton and the produced hadrons.
     $$
-        E_{\nu_\mu} = E_{\mu} + E_{hadrons}
+    E_{\nu_\mu} = E_{\mu} + E_{hadrons}
     $$
 
 ## Chapter 5: $\nu_e$ appearance analysis :
