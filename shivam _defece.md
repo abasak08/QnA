@@ -17,4 +17,9 @@
 - How to compare results from different experiment?
 - Does NOvA event simulation consider event by event basis or as sum of all events (i.e. comulatively)?
 - Does off-axis configuration affects beam backgrounds?
-  - Yes, it helps to reduce the beam back ground as well (comment by -  **Prof. Srubabati Goswami**) 
+  - Yes, it helps to reduce the beam back ground as well (comment by -  **Prof. Srubabati Goswami**)
+- Oscillograms are not periodic, from which non periodicity comes from? (by - **TND**)
+  -  This non periodicity comes from $\Delta m^2$ i.e. mass square difference.
+  
+**Have to add what HEP has given to humanity.**
+**Also have to add what neutrino oscillation can give to humanity.**
