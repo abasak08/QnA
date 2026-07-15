@@ -10,7 +10,7 @@
 * What is meant by **Beam data base**?
 * What is meant by **Signal injection to spectra/sample** in the calculation?
 
-
+--------------------------------------------------------------------------------
 # Data fit in NOvA:
 
 - There are two general techniques to fit MC samples. Those are 
@@ -28,7 +28,7 @@
 - When we are fitting the data which spectra should be taken into account?
 - If I look into the code by **MARIO A.** and from that can we  extract some techniques for the analysis? 
 
-
+--------------------------------------------------------------------------------
 # Normalization of event spectra:
 
 * **Shivam** suggested to add cosmic events to the predictions. What can be done with this?
@@ -36,6 +36,8 @@
 * Why different type of normalization technique is used for numu disappearance nue appearance spectra. most importantly in case of numu disappearance we use events/0.1 GeV whereas for  nue appearance we use events/POT equivalent, why so?
 * **Shivam** is suggesting data POT should be normalize before using it.
   * How that can be done?
+
+--------------------------------------------------------------------------------
 # Sensitivity:
 
 * When we are starting to estimate sensitivity, should not we start from the $\nu_{\mu}$ disappearance rather than $\nu_e$ appearance? Because the  $\nu_{\mu}$ spectra is simpler than $\nu_e$( which is divided into three catagory).
@@ -45,12 +47,18 @@
 * Also, measuring the $\chi^2$ how BB sir suggesting i.e. using unblinded 3Flavor data\
  will also be helpful incase of $\nu_\mu$ sample. *Have to check!*
  
-
+-------------------------------------------------------------------------
 # Miscllanious:
 
-*Long BaseLine (LBL) Experiments are those experiments proposed before 2010. After 2010, the proposed experimets are called Long Basline Neutrino Experiment (LBNE).
+* Long BaseLine (LBL) Experiments are those experiments proposed before 2010. After 2010, the proposed experimets are called Long Basline Neutrino Experiment (LBNE).
 
 * To measure cross section we need to measure the energy. **HOW TO DO THAT!!**
 
 * **Neutrino Astromoy!!** - What's that!?
 * **Earth Tomography using neutrinos!!**
+
+-------------------------------------------------------------------------------
+# nuX group meeting (15th July, 2026):
+
+* Krishanmoorthi et. al. $\delta_{CP}$ free constrains on IceCube deepcore data. Not from collaboration but these made using IceCube data.
+  * ==**How this can be done?? How can turn $\delta_{CP} = 0.0$ ??**==
