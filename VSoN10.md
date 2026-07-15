@@ -120,7 +120,7 @@
 
 * There is errors related to hypothesis testing. Such as,
   * $H_0$ : $\theta_{13} = 0$
-  * $H_1$ :$\theta_{13} \neq  0$ .
+  * $H_1$ : $\theta_{13} \neq  0$ .
 * Error:
   * **Type I Error :** rejects $H_0$ even though it is true.
   * **Type II Error :** rejects $H_1$ even though it is true.
