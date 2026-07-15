@@ -17,3 +17,6 @@
     * **Supernova Neutrino** have energy in a range of 10 - 50 MeV.
     * **Atmospheric Neutrino** have energy with 100 MeV - 100 TeV.
     * This gives a point of difference to distinguish from neutrinos comming from different sources.
+    * **There is another important technique is used in LBL experiments, that is to calibrate between the source pulse timinig information and ND, FD operation information. This timing calibation between the source and the detectors allows rectect neutrinos comming from different other sources.**
+
+10. Why MSW effects peaks at certain range only in high energy range both oscillograms merges together? 

@@ -45,3 +45,9 @@
 * Also, measuring the $\chi^2$ how BB sir suggesting i.e. using unblinded 3Flavor data\
  will also be helpful incase of $\nu_\mu$ sample. *Have to check!*
  
+
+# Miscllanious:
+
+*Long BaseLine (LBL) Experiments are those experiments proposed before 2010. After 2010, the proposed experimets are called Long Basline Neutrino Experiment (LBNE).
+
+* To measure cross section we need to measure the energy. **HOW TO DO THAT!!**
