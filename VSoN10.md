@@ -1,10 +1,10 @@
------------------------------------------------------------------------------
+----------------------------------------------------------------
 title: Notes from VSoN10 
 author: Anirban Basak
 Date: July 2026
-------------------------------------------------------------------------------
+----------------------------------------------------------------
 # Notes from VSoN10 (July 2026)
-===============================================================================
+================================================================
 ## Day 1 (15th July 2026, Tuesday)
 ### Neutrino physics - Introduction and first 50 years (Yuichi Oyama, KEK/J-PARC)
 
@@ -369,3 +369,60 @@ Where, $\gamma$ factor depends on energy of the proton energy and mass.
 
 * This happens for free electron but electron is never free it is bounded in metal. But what we assume is incident photon energy is very high than the binding eneergy of electron.
 * **[Q] Using STR derive the Compton scattering formula.**
+* **[Q] Calculate cross section using QED for Compton scattering.**
+   *  This formula is called Kelin-Nsihima formula.
+
+#### Pair production:
+
+* * **[Q] Calculate cross section using QED for Pair production.**
+
+
+#### Electro magnetic shower:
+
+* When high energy photon (GeV) is incidented squential pair production happens. which is difficult to calculate by hand. We need simulation like GEANT to simulate it.
+
+* EM shower radiation legnth is characteristics of the material.
+
+* **[Q] Under approximation how much length an e$^-$ can travel?**
+  * For T2K $\nu_\mu \rightarrow \nu_e$ and the $\nu_e$ interact with neutron of water and produce electron by, $\nu_e + n \rightarrow e^{-} + p $.
+  * The energy of the electron in approx 1 GeV
+  * From yesterday we know, $-\frac{dE}{dx} \approx 2MeV /cm$
+  * So electronn can travel 1GeV/2MeV = 5 m.
+* For electron shower :
+  $$
+  X_{max} \approx 4.5 X_0
+  $$
+  * $X_0$ : for water is 36 cm.
+
+
+#### Charge particle detection:
+
+* Charge particle produces an electron which can be detected by collecting in anode.
+* Scintillation uses observation of excited atoms to detect charged particle.
+* There are different scintillator like organic and inorganic scintillator.
+  * Mechanisms are little different. They work mostly on the band structure.
+
+#### Detection of free electron after Excitation:
+
+* Semi conductor detectors can be buse to dection of free electron after excitation.
+* MPPC is such type of semiconductor detectors.
+* These detectors have better resolution relative to other.
+
+
+#### How to detect photons:
+
+* Photon is interacting and electron is the measure of the photon.
+* While detecting the photons advantage lies in higher stopping power of material and higher atmoic number.
+  * **[Q] Why high atomic number needed?**
+* Scintillation mechanism depends on several things such as:
+  * Temp.
+  * material and particles.
+
+* **Photo Multiplier Tube (PMT)** : measures the photons
+* **Semiconductor detectors**
+  * In high energy physics these detector work in reverse bias.
+  * Used in verted detector.
+* **Superconducting detectors**
+  * Have high resolution than semiconductors.
+  * Used in Dark matter detection.
+  * Economically costly.
