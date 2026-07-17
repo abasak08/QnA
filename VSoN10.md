@@ -1,5 +1,10 @@
-# VSoN 10 (2026)
-
+-----------------------------------------------------------------------------
+title: Notes from VSoN10 
+author: Anirban Basak
+Date: July 2026
+------------------------------------------------------------------------------
+# Notes from VSoN10 (July 2026)
+===============================================================================
 ## Day 1 (15th July 2026, Tuesday)
 ### Neutrino physics - Introduction and first 50 years (Yuichi Oyama, KEK/J-PARC)
 
@@ -227,11 +232,14 @@ Where, $\gamma$ factor depends on energy of the proton energy and mass.
   $$
   E= m\gamma \\
   p = m\beta \gamma \\
-  \beta \gamma = \frac{p}{m} \\
-  m_{\mu} = 100 MeV/c^{3} \equiv 0.1 GeV /c^{2} \\
+  \beta \gamma = \frac{p}{m}
+  $$
+
+  $m_{\mu} = 100 MeV/c^{2} \equiv 0.1 GeV /c^{2}$
+  $$
   \beta \gamma = 3 \\
-  or, \frac{p}{m} = 3 \\
-  or, \frac{p}{0.1 Gev/c^{2}} = 3 \\
+  or, p/m = 3 \\
+  or, p/(0.1 Gev/c^{2}) = 3 \\
   or, p = 0.3 GeV/c
   $$
   * **Why $\beta\gamma =3?$**
@@ -263,10 +271,101 @@ Where, $\gamma$ factor depends on energy of the proton energy and mass.
 * Interaction of $e^{+}$ is same while it is moving, but when it stops when anhilates and produce photons.
 * **[Q] Why $e^{-}e^{+}$  decay via two channel one produced two photon and other three photon - why?**
   * *$e^{-}e^{+} \rightarrow \gamma \gamma$ (Spin 0) : para-positronium*
-  * *$e^{-}e^{+} \rightarrow \gamma \gamma \gamma$ (Spin 1) : otho-positronium para-positronium*
+  * *$e^{-}e^{+} \rightarrow \gamma \gamma \gamma$ (Spin 1) : otho-positronium*
 * **[Q] What is the lifetime of positronium?**
 
 
 ###  Standard model and neutrinos 1/2 (Nhung Dao, Phenikaa Univ.)
 
-* 
+* Elementary particles are the fluctuation in quantum field.
+* Electron and quarks are the smallest fundamentl particle till date.
+* **[Q] How do we measure the size of the quarks?** 
+* Point like particle are those whose size is $ <10^{-18}$.
+* **[Q] How can we say electric charge is quantozed when up quark have electric charge of $+\frac{2}{3}$**
+* Stable particle those which never deacys, i.e. $\tau \rightarrow \infty$
+* Decay width is the measure of the particle how do they decay into other particles.
+* Three most unstable particle in Standard Model is : **Higgs, W, Z , top quark**.
+* **Virtual particles :** Particles those donot follow $E^2 = m^2 + p^2$ relation.
+* In QM, particle numbers are fixed but in QFT they are not.
+* **[Q] Why in QFT we use Lagrangian formalism whereas in QM we prefer Hamiltonian formalism?**
+* **[Q] Why Lagrangian have a mass dimension 4?**
+* **Anhilition operator in QFT:** Anhilates one particle.
+* **Creation operator in QFT:** Creates one particle.
+* **[Q] What is gravitino?**
+* **[Q] Even though neutron is fermion it do not have any anti-particle-why??**
+  * No, neutrino have antiparticle called antineutron.
+* **Pauli exclusion principle:** Two fermions can't be in same state.
+  * That's fermionic field have anti commutation relation rather than commutation relation.
+* Dirac field have mass dimension of 3/2. **WHY??**
+* **[Q] Why Dirac field have four components?**
+* **[Q] Why mass term do not respect/affect chirality, i.e. incase of mass term left chiral and right chiral part of Dirac field comes jumbled up - why??**
+* So, to exhibit mass we need both left handed and right handed part of the particles, neutrinos do not have right handed part, so in standard model neutrinos are massless. To define mass we need to go beyond SM.
+* Higgs paricle : real scalar field. (Scalar because spin 0 and real beacuse EM charge 0)
+* gluons, photon, Z : real vector field (vector because spin 1 and real beacuse EM charge 0)
+* W boson : Complex vector field (vector because spin 1 and real beacuse EM charge $\pm$1)
+* quarks : Dirac field.
+* leptons, neutrinos : weyl spinors.
+*  **Electromagnetic interaction treats left and right chirality equally.** 
+*  **[Q] For weak interaction Lagrangian is of mass dimension of 6, but Lagrangian have to be of mass dimension of 4, what is happening?**
+   *  This can be take care of introduction of W bosons. **HOW!**
+* In 1983, SPS (Super Proton Synchroton) CERN , W and Z bosons are discovered. 
+* **HAVE TO STUDY STRONG INTERACTION!**
+* **TOPICS HAVE TO STUDY :**
+  * Symmetry
+  * Unitrary transformation
+  * Abeliean Global symmentry
+  * Abelian Gauge symmetry
+  * QED
+  * Non-Abeliean Gauge theory : Yang-Mills theory
+
+
+#### Dark matter search with neutrino (Alba Domi, ECAP)
+
+* **[Q] How can someone link with quantum gravity to neutrinos?**
+* Quantum gravity can probe:
+  * Black hole
+  * Big bang
+* *Quantum gravity is not renormalizable*.
+* Success of standard model leads to used QED to string theory for unification of all forces.
+  * **Fundamental principle:** Particles and gravity excitation of strings.
+* General Relativity consider the curved manifold.
+* No, experimental evidence of Quantum Gravity (QG).
+* Plunk's scale is large. Which is difficult to reach in any current teristial experiments.
+* Neutrino from different astrophysical source can solve this problem.
+* **Quantum Coherence effect in neutrino oscillations** 
+* **Lorentz invariance violation**
+* IceCube's neutrino energy threshold starts from TeV range and it can go to PeV range.
+* **Have to study about Cherekkov detection!!!**
+* **"When neutrino propagates it propagates in mass eigen state"-What does this mean?!**
+* **Decoherence in neutrino oscillation:** If the osciillation are done in decohereance state that means oscillation is damped. which indicates that we will get different flavor at same detector other than the predicted by 3 flavor oscillation.
+  * Lindblad equation: Markovian time evolution equation.
+  * **Lorentz invariance violation!!-What's that?**
+  * **What is lorentx viaolating fields?**
+  * Effect of lattitude in oscillation probabilities in astrophyical and atmospheric neutrinos.
+
+
+--------------------------------------------------------------------------------
+
+## Day 3 (17th July 2026)
+
+### Particle and radiation detector 2/2 (Tsuyoshi Nakaya, Kyoto Univ.)
+
+
+#### Interaction of photons:
+
+* Photoelectric effect
+* Crompton effect
+* Pair production
+
+#### Photoelectric effect:
+* **[Q] Can this happen with free electron?**
+  * Crompton scattering happens for free electron.
+* **[Q] Does this process happen with the K-Shell e?**
+* **[Q] Why does the probability becomes low at higher energy?**
+* X-ray is emmitted after emition of photoelectron.
+* Sometimes inseted of Xray emmission one L-shell electron is emmitted which is called Auger electron.
+
+##### Compton effect:
+
+* This happens for free electron but electron is never free it is bounded in metal. But what we assume is incident photon energy is very high than the binding eneergy of electron.
+* **[Q] Using STR derive the Compton scattering formula.**
