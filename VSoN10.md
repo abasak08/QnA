@@ -426,3 +426,50 @@ Where, $\gamma$ factor depends on energy of the proton energy and mass.
   * Have high resolution than semiconductors.
   * Used in Dark matter detection.
   * Economically costly.
+
+#### Different type of detectors:
+
+* Cherenkov Detector
+* Transition Raditaion Detector
+* Time projection Chamber
+* Nuclear Emulsion
+* Nobel liquid detector
+
+##### Cherenkov detector:
+
+* Cherenkov radiation arises when charge particle in material moves faster than speed of light in the medium.
+* This happens due to the polarization of the medium particle due to the charge particle.
+$$
+cos\theta_c = \frac{ct/n}{\beta ct} = \frac{1}{\beta n}
+$$
+
+![Cherenkov angle](./figs/VSoN10/Cherenkov.svg)
+Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive index. From this we can measure the angle of the chernkov ration from the vertex.
+
+* **Disadvantages:** For Cherekov raditaion light yeild is very small. 
+* Cherenkov yeild is $\propto 1/\lambda^{2}$
+
+##### Nuclear Emulsion detectors:
+
+* It can be think as how photons are taken in 20th centuty.
+* A thin film is exposed to radiation. Which produces an image which can be process to get a image.
+* Cosmic muon can be detected using this detectors.
+* Photon can be detected using this technique.
+
+
+##### Liquid Ar TPC:
+
+* Used in DUNE.
+
+###  Standard model and neutrinos 2/2 (Nhung Dao, Phenikaa Univ.)
+
+* The gauge group for SM: SU(3) $\otimes$ SU(2)  $\otimes$ U(1).
+  * SU(3)$_C$, C : for color charge. It has 8 generators with 8 gluons. Study of this strong force is called QCD.
+  *  SU(2)$_L$ $\otimes$ U(1)$_{Y}$:
+     *  This has 4 generators which leads to 4 gauge bosons W, Z and photon.
+     *  This symmetry must be broken to give mass to the particles.
+
+* **HAVE TO STUDY SU(3)$_{c}$ : STRONG INTERACTION**
+* **HAVE TO STUDY SU(2)$_L$ $\otimes$ U(1)$_{Y}$ AND SYMMETRY BREAKING**
+* Projection operator is $P_{L/R}$ and chiral operator is $\gamma_{5}$. **HAVE TO CLEAR THIS THING**
+* Quark doublet can writen as $\begin{pmatrix} d_{L}  \\ u_{L} \end{pmatrix}$ but have to make sure all the physics remains the same so charges (EM, Hypercharge) must be modified accordingly.  
