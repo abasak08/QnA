@@ -649,6 +649,66 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * **$J/\psi$ discovery of charm quark at 1974.**
 * Atmospheric neutrino oscillation $\nu_\mu \rightarrow \nu_\tau$ is not belived by the spokes person of Kamiokande in 1992. This is due to the fact:
   *  Capacity if $e/\mu$ paticle identification.
-  *  More statisctical data was needed.
+  *  More statisctical data was needed.9
   *  Uncertainity in atmospheric neutrino flux.
   *  Negative results from other experiments like Frejus and NUSEX.
+
+
+### Neutrino interactions (Jake McKean, Kyoto Univ.)
+
+* Neutrino interaction estimation is important to understand the dynamics and physics how the particle interacts.
+* Neutrino energy is not measured directly, it is measured throught the function of final state particle produced after interaction.
+* Neutrino flux vs energy plot is important.
+* **CC quasielastic scattering.**
+* **NC quasielastic scattering.**
+* For massless particle helicity and chirality are same.
+* Weak interaction takes places for lefthanded particle.
+* Which leads to the parity violation.
+* Variation of cross section w.r.t different parameters tells the dependancy of the cross section with that parameter.
+  * $\frac{d\sigma}{d\Omega}$ : differential cross section wrt to solid angle.
+  * $\frac{d\sigma}{d p_\mu}$ : differential cross section wrt to muon momentum.
+  * $\frac{d^2\sigma}{d p_\mu d\theta_\mu}$ : double differential cross section wrt to momentum and angle.
+* Depending upon the energy of the neutrinos sees different particles. At low energy neutrinos rarely interacts. At relatively higher energy neutrino see nucleons (most of the LBL opertaes in this range) and at very high energy neutrino intercts with quark and lots of particles are produced.
+
+![Varibles in lepton-neucleon inteaction](./figs/VSoN10/lepton-nucleon_interaction.png)
+
+* **How to estimate the form factors???!!**
+
+* Channels are named as *$<current \ type>$* *$<interaction\ type>$*, e.g.:
+  * CCQE, NCQE, CCRes, CCDIS
+* We have charged-current quasi elastic (CCQE) and neutral-current quasielastic (NCQE)
+* At higher neutrino energies, we have CCRes & NCRes 
+* At even higher neutrino energies, there is deep inelastic scattering (DIS)
+* Different interaction channels “turn on” at different neutrino energies
+* This comes from kinematic constraints on the interaction, E.g.:
+  *  if there is not enough energy to produce a particle, then it won’t 
+* For different experimental fluxes, the dominating interaction channel is different, E.g.:
+  *  T2K is dominated by CCQE interactions.
+  *  but MINERvA includes more CCRes and DIS
+![flux and crossection](./figs/VSoN10/bkg_flux_crosssection.png)
+* **Depending on the neutrino beam energy the beam contains flux from different processes.**
+* In Deep Inelastic Scattering (DIS) which happens in higer energy range neutrinos interacts with quarks and in final state a large number of particles are produced.
+* *Have to underastand e-nucleon interaction first then go for nucleon-nucleaon scattering. Which will help us a lot in this case we just need to map the lepton from electron to neutrinos.*
+![electron to neutrino mapping](./figs/VSoN10/electron_to_neutrino_mapping.png)
+
+* To understand neutrino-neucleon interaction we are considering Final State Interaction (FSI) model. There are other things like:
+  * Nuclear model, which nuclaear model we are considering : Here we consider **Fermi motion**.
+  * And we also have to consider how neutrinos chooses which neucleaon to interact. 
+* For nuclear model we consider **Fermi gas model** which treats nucleus as fermi gas, which gives an estimate fermi energy, fermi momentum.
+  * *Fermi momentum is an estimate of the binding energy of the neucleons inside the nucleous.*
+  * *Neutrons are relatively highly bound than proton as proton are positively they repel each other.*
+* Different nuclear models for interaction:
+  * Relativistic Fermi Gas (RFG) model:
+    * Global Fermi gas model: Uniform desnity (unrealistic)
+    * Local fermi gas model : Not uniform density (More realistic)
+    ![Fermi Gas Model](./figs/VSoN10/FG_model.png)
+  * Spectral function approach.
+  * Mean-field theroy: It models nuclear force with meson exchange.
+* In Final-state interactions we have to take account of several things, such as:
+  * Elastic scattering
+  * Nucleon rescattering
+  * Charge exchange
+  * Pion absorption
+  * …
+* **Impulse approximation :** Models the interaction on nucleus as an interaction with a single nucleon with other nucleons as spectators, then sum over available target nucleons. This turns many-body interaction into a sum of single-body interactions.
+* This gives an brief idea how neutrino interacts with nucleons and nucleus.
