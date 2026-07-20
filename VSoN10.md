@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Title: Notes from VSoN10 \ 
-Author: Anirban Basak \
+Title: Notes from VSoN10 \\ 
+Author: Anirban Basak \\
 Date: July 2026
 ----------------------------------------------------------------
 # Notes from VSoN10 (July 2026)
