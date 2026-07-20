@@ -716,4 +716,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 
 ### Software training: NEUT (Ngoc Tran and Jake McKean)
 
+#### MC sample:
 [MC method in event generator](./figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
+#### NUET handson:
+[Whole slide](./figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
