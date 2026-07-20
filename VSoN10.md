@@ -712,3 +712,8 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
   * …
 * **Impulse approximation :** Models the interaction on nucleus as an interaction with a single nucleon with other nucleons as spectators, then sum over available target nucleons. This turns many-body interaction into a sum of single-body interactions.
 * This gives an brief idea how neutrino interacts with nucleons and nucleus.
+
+
+### Software training: NEUT (Ngoc Tran and Jake McKean)
+
+[MC method in event generator](./figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
