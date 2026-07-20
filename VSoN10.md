@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-title: Notes from VSoN10 
-author: Anirban Basak
+Title: Notes from VSoN10 \ 
+Author: Anirban Basak \
 Date: July 2026
 ----------------------------------------------------------------
 # Notes from VSoN10 (July 2026)
@@ -626,4 +626,25 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * Kamiokande focuses on atmospheric and solar neutrino detection.
 * Energy range of atmospheric neutrino is ~ 1 - 10 MeV for atmospheric neutrinos. 
 * Lower tigger rate allows to measure 8 MeV solar neutrinos too.
-* 
+* Supernova **SN1987A** is detected by kamiokande in 1987 which is 160k light years away from our solar system.
+* Results was confirmed by IMB experiment.
+* They found 8 neutrino events with energies between 20 MeV and 40 MeV during 6 secs.
+* In kamiokande paticle and antiparticles are not distinguished if not needed.
+* Downaward $\nu_e$, Downing going $\nu_mu$ and upgoing $\nu_e$ agrees with the expectation whereas upgoing $\nu_\mu$ do not agrees with the expectation. Which is called atmospheric neutrino deficit.
+   ![Atmospheric neutrino deficit](./figs/VSoN10/atm_nu_deficit.png)
+* Atmosperhic neutrino deficit can be explained by $\nu_\mu \rightarrow \nu_\tau$ oscillation.
+
+
+#### NUSEX experiment:
+
+* NUSEX is a digital tracking calorimeter in Mont Blanc tunnel.
+* The detector is made of iron plates.
+
+#### Frejus experiment:
+
+* Frejus experiment is located at France and Italy border.
+* NUSEX and Frejus experiment denies Kamiokande results.
+
+#### IMB-3 Experiment:
+
+* It's results aligns with Kamiokande results. 
