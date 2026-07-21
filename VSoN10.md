@@ -732,3 +732,10 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * Beam test for particle identification. Such as for:
   * e beam.
   * $\mu$ beam.
+* Super K running from 1996 - present, but it is modifed in different phases.
+* Automatic reconstruction tool was introduced for super-kamiokande to classify between e and $\mu$ type events.
+* **Why maximal mixing in atmospheric neutrino case??**
+* *MACRO experiment (1989-2000)*:
+  *  Located in Italy.
+* *Soudan-2 experiment (1989-2001)*:
+  * Located in soudan mine, Minnesota, US.
