@@ -727,4 +727,8 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 
 ### From Kamiokande to K2K 2/2 (Yuichi Oyama, KEK/J-PARC)
 
-*
+* **WHY TRACKING TYPE DETECTORS LIKE FREJUS AND NUSEX GAVE NEGATIVE RESULTS WHEREAS CHERENKOV DETECTOR GAVE POSTITIVE RESULTS WIH ATMOSPHERIC NEUTRINO?**
+* **KEK Proton Synchrotron E261A**
+* Beam test for particle identification. Such as for:
+  * e beam.
+  * $\mu$ beam.
