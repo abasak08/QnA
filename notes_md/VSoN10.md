@@ -9,7 +9,6 @@
 * Why there is no matter consists of neutrinos similar to that of matter fermions?
    * *If we consider leptons as SU(2) doublets, it can be assumed neutrino interaction changes upper state to lowerstate before and after respectively.*
 * Comparison between hadron-neuclei interaction $\sigma \approx 3 \times 10^{-26} cm^{-2}$ whereas, neutrino-neuclei interaction $\sigma \approx 1 \times 10^{-38} cm^{-2}$.
-git@github.com:abasak08/QnA_and_notes.git
 * *STUDY ABOUT SAVANA RIVER EXPERIEMT BY REINES AND COWAN*
     * This leads to discovery of anti-neutrinos.
     * **The basic principle:** two photons will come from $\bar{\nu}_e + p \rightarrow e^{-} + n$  and $e^{-}\rightarrow \gamma\gamma$, $n + Cd \rightarrow Cd^{*} \rightarrow Cd + \gamma$. i.e. two gammas detected withing 5 mircosec interval. Conicedence tecnique is use to detect the neutrino.
@@ -755,12 +754,12 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
   * Near detector is ~ 300m from target. It consist fine grain detector and a water cherenkov detector.
   * Far detector was Kamiokande water cherenkov detector.
   * Beam started 1999.
-  * It collected $9.8 \times 10^{38}$ POT equivalent events.
-  * Time correlation is done using GPS. Beam window is 1,5 $\mu s$.
+  * It collected $9.2 \times 10^{19}$ POT equivalent events.
+  * Time correlation is done using GPS. Beam window is 1.5 $\mu s$.
   * K2K results agrees with Super-K results.
   * This was the first experiment with accerator neutrino beam, to study atmospheric neutrino results.
 * **MINOS experiment :**
-  * $\nu_mu$ disappearance channel was studied.
+  * $\nu_\mu$ disappearance channel was studied.
   * 1st publication in 2006.
   * This independently confimed neutrino oscillations.
 
@@ -769,4 +768,8 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * **Why donot we study $\nu_\tau$ appearance channel?**
 * L/E analysis helps us to probe neutrino decoherence and neutrino decay.
 * After that arround 2000 there was several experiment which studied $\nu_e \rightarrow \nu_\mu$.
-* This leads to study of three flavor oscillations. 
+* This leads to study of three flavor oscillations.
+* **NOTE :** *In cherenkov type detector $\nu_\tau$ creates many number of ring instead of single ring expected in e and $\mu$ type events.*
+
+
+### Neutrino phenomenology 1/2 (Sanjib Agarwalla, IOP Bhubaneswar and UW-Madison, online)
