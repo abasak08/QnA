@@ -579,12 +579,12 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
   ![SK event display](../figs/VSoN10/sk_nue_numu_event.png)
   * Left one is for electron, fuzzy ring due to EM shower.
   * Right one is for muon, sharp ring no EM shower.
-  * **Why elctron shows shower whereas muon shows long track?**
+  * **[Q] Why elctron shows shower whereas muon shows long track?**
   
 ### Software training: SK particle ID (Makoto Miura, ICRR Tokyo)
 
 
-*  **Why elctron shows shower whereas muon shows long track?**
+*  **[Q] Why elctron shows shower whereas muon shows long track?**
    *  Muon is 200 times heavier than electron and hard to make the showe.
    *  Emits Cherenkov light until it stops.
    *  Muons run longer distance than electron.
@@ -671,7 +671,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 
 ![Varibles in lepton-neucleon inteaction](../figs/VSoN10/lepton-nucleon_interaction.png)
 
-* **How to estimate the form factors???!!**
+* **[Q] How to estimate the form factors???!!**
 
 * Channels are named as *$<current \ type>$* *$<interaction\ type>$*, e.g.:
   * CCQE, NCQE, CCRes, CCDIS
@@ -716,7 +716,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 ### Software training: NEUT (Ngoc Tran and Jake McKean)
 
 #### MC sample:
-[MC method in event generator](../figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
+[MC method in event generator](../figs/VSoN10/VSoN_Introduction_to_NEUT_MC_JMcK.pdf)
 #### NUET handson:
 [Whole slide](../figs/VSoN10/VSoN_Introduction_to_NEUT_JMcK.pdf)
 
@@ -726,14 +726,14 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 
 ### From Kamiokande to K2K 2/2 (Yuichi Oyama, KEK/J-PARC)
 
-* **WHY TRACKING TYPE DETECTORS LIKE FREJUS AND NUSEX GAVE NEGATIVE RESULTS WHEREAS CHERENKOV DETECTOR GAVE POSTITIVE RESULTS WIH ATMOSPHERIC NEUTRINO?**
+* **[Q] WHY TRACKING TYPE DETECTORS LIKE FREJUS AND NUSEX GAVE NEGATIVE RESULTS WHEREAS CHERENKOV DETECTOR GAVE POSTITIVE RESULTS WIH ATMOSPHERIC NEUTRINO?**
 * **KEK Proton Synchrotron E261A**
 * Beam test for particle identification. Such as for:
   * e beam.
   * $\mu$ beam.
 * Super K running from 1996 - present, but it is modifed in different phases.
 * Automatic reconstruction tool was introduced for super-kamiokande to classify between e and $\mu$ type events.
-* **Why maximal mixing in atmospheric neutrino case??**
+* **[Q] Why maximal mixing in atmospheric neutrino case??**
 * *MACRO experiment (1989-2000)*:
   *  Located in Italy.
 * *Soudan-2 experiment (1989-2001)*:
@@ -765,7 +765,11 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 
 * **In 2015, Kajita-San (Super-K) and McDonald (SNO) was given nobel prize for $\nu_\mu \rightarrow \nu_\tau$ oscillation.**
 
-* **Why donot we study $\nu_\tau$ appearance channel?**
+* **[Q] Why donot we study $\nu_\tau$ appearance channel?**
+  * Detecting $\nu_\tau$ is difficult because enregy of the neutrino must be high in multi GeV order,  as mass of $\tau$ particle is ~ 1.78 GeV and from the expression below:
+  $$
+    E_\nu > \frac{m^2_\tau + 2 m_\tau m_{nucleus}}{2m_{nucleus}} \approx 3.5 \text{GeV}
+  $$
 * L/E analysis helps us to probe neutrino decoherence and neutrino decay.
 * After that arround 2000 there was several experiment which studied $\nu_e \rightarrow \nu_\mu$.
 * This leads to study of three flavor oscillations.
@@ -773,3 +777,34 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 
 
 ### Neutrino phenomenology 1/2 (Sanjib Agarwalla, IOP Bhubaneswar and UW-Madison, online)
+
+* **Active neutrinos :** The neutrinos which interacts via weak interaction (through W and Z bosons).
+* **Sterile neutrinos :** Do not interact via weak interaction.
+* **[Q] How do we predict spin of neutrino?**
+  * Beta decay :
+      $$
+       n \rightarrow p + e^- + \nu
+      $$
+      * spin of n, p, e : $\frac{1}{2}$
+      * So neutrino have to be a spin 1/2 to maintain the angular momentum conservation.
+      * **[Q] Can we plot the beta decay spectrum from theory and compare with experiment?**
+* LEP experiment predicted three flavor of neutrinos.
+  $$
+  e^{+}e^{-} \rightarrow Z \rightarrow \nu \bar{\nu}
+  $$
+* **Ref :** [LEP Phys. Rept. 2005](https://arxiv.org/pdf/hep-ex/0509008) 
+* **[Q] What is the minimum energy of the incoming neutrino required to create corresponding leptons??**
+* DOUNT experiment and $\nu_\tau$ discovery.
+  * **Ref:** [Observation of Tau Neutrino by DONUT collaboration at Fermilab](https://arxiv.org/pdf/hep-ex/0012035)
+* **IceCube, KM3Net, ORCA experimt to study astrophysicsal neutrinos.**
+  * KM3Net have detected highest energy neutrino event of energy 220 PeV.
+    * **Ref :**[The Highest-Energy Neutrino Event Constrains Dark Matter-Neutrino Interactions](https://arxiv.org/pdf/2506.08993)
+* **PTOLEMY experiment to study Relic neutrinos**
+* **[Q] What is Glawshow resonance?**
+  * At neutrino energy ~ $6.05$ PeV, a sudden peak in cross section is obsereved. Due to production of W boson in s-channel in antineutrino-e scattering process.
+  * IceCube in 2021, showed that they have seen 1 Glashow resonance like event in their detectors.
+  * **Ref :**[Detection of a particle shower at the Glashow resonance with IceCube](https://arxiv.org/pdf/2110.15051)
+  * This is one type of Brigth-Wigner resonace.
+  * **[Q] What is Brigth-Wigner resonace??**
+* **[Q] Calculate threshold energy for different proccess??**
+* **[Q] How sun shines?? i.e. How the energy is generated inside sun?**
