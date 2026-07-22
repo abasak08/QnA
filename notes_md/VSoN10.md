@@ -808,3 +808,41 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
   * **[Q] What is Brigth-Wigner resonace??**
 * **[Q] Calculate threshold energy for different proccess??**
 * **[Q] How sun shines?? i.e. How the energy is generated inside sun?**
+
+### T2K experiment (Atsumu Suzuki, Kobe Univ.)
+
+* **Physics goal :** The physics goal is to determine the oscillation parameter in three flavor framework using $\nu_e$ appearance and $\nu_\mu$ disappearance channel:
+  * $\theta_{13}$
+  * $\delta_{CP}$
+  * mass oredering
+* 30 GeV proton is used to produce pions and Kaons in J-PARC.
+* Off-axis angle is 2.5$^\circ$.
+
+#### Proton beam:
+
+* **Proton beam are passed as pluse. Each pulse contains bunches. 8 bunches together makes a spill.** 
+
+#### Production of neutrino beam:
+
+* Neutrinos are EM charge neutral so can not stear them. But we can stear the parent particle of neutrinos i.e. pions and Kaons using magnetic horns, and make the beam parallel before directing towards the target.
+* Magnetic horns increases the intensity of the beam by a factor ~ 10 (total) and ~ 16 (at 0.6 GeV).
+
+#### Beam dump:
+
+* Beam dump is consist of graphite module.
+
+#### Detectors:
+
+* **Near detector :**
+  * ND280 (2.5$^\circ$)
+  * INGRID (on axis)
+  * WAGASCI (1.5$^\circ$)
+* **[Q] What is 1 kt equivalance of detector means??**
+* Super Fine Grain Detector (SFGD) used after ND280 upgrade.
+#### POT:
+* POT = beam time $\times$ pps
+
+
+### Overview of high energy experiments (Atsumu Suzuki, Kobe Univ.)
+
+*
