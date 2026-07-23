@@ -843,6 +843,29 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * POT = beam time $\times$ pps
 
 
+## Day 7 (22nd July 2026)
+
 ### Overview of high energy experiments (Atsumu Suzuki, Kobe Univ.)
+
+* In collider physics experiment, we get higher energy than the fixed target experiment.
+* **[Q] Why do we need synchrotron?**
+* **Synchrotron radiation.**
+* **Invarient mass Analysis :** Event spectra peaks at specific CM mass energy.
+* **Tragedy of ADONE!!**
+*  **TRISTAN**
+  
+### Neutrino phenomenology 2/2 (Sanjib Agarwalla, IOP Bhubaneswar and UW-Madison, online)
+
+* Elemenetary particle are those which do not have instrinc structure till date.
+* For atmospheric neutrino $\frac{\nu_e}{\nu_\mu} \approx \frac{1}{2}$.
+* Atmospheric neutrino flux is isotropic in nature.
+* **[Q] Why in atmospheric neutrino experiment electron like event remains same as expected but a deficit is obeserved in muon like events??**
+* Neutrino oscillation is a quantum mechanical concept in macroscopic scale.
+* Unitarity condition is required to make to total probabilty to unity.
+
+
+
+## Day 8 (23rd July 2026)
+### Solar neutrino experiments (Yuichi Oyama, KEK/J-PARC)
 
 *
