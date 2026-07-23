@@ -860,6 +860,9 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 * For atmospheric neutrino $\frac{\nu_e}{\nu_\mu} \approx \frac{1}{2}$.
 * Atmospheric neutrino flux is isotropic in nature.
 * **[Q] Why in atmospheric neutrino experiment electron like event remains same as expected but a deficit is obeserved in muon like events??**
+  * There is a thresold for each type of detection mechanism such as,:
+    * Ga and Cl detector have different threshold.
+  * This is why different mechanism is used to distinguish neutrinos comming from different sources.
 * Neutrino oscillation is a quantum mechanical concept in macroscopic scale.
 * Unitarity condition is required to make to total probabilty to unity.
 
@@ -867,6 +870,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 -------------------------------------------------------------------------------
 
 ## Day 8 (23rd July 2026)
+
 ### Solar neutrino experiments (Yuichi Oyama, KEK/J-PARC)
 
 #### Total solar neutrino flux:
@@ -896,6 +900,7 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 #### Energy spectrum of solar neutrinos (Standard Solar Model [SSM]):
 
 * $^{8}$B neutrino is of ~ 8 MeV in range. Detected using water cherenkov detector.
+  * Super-Kamiokande experiment.
 * $^{7}$Be neutrino of ~ 7 MeV range. 
   * Cl experiment used to detect them.
   * Homestake experiment. 
@@ -903,3 +908,49 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
 #### MSW effect:
 * It came from the analogy of the speed of light in matter.
 * It can be considered as maximal mass mixing.
+* MSW effect shed light on solar neutrino problem.
+* From analogy of quark sector, diagonal element in in CKM matrix are large and off-diagonal elements are small. And in lepton sector we expected the same too.
+* But solar neutrino anomaly showed they are not with the help of the MSW effects lepton mixing angle is not same as quark sector which is a great deal to begin with.
+* Mixing angle in lepton case is large. It is called Large Mixing Angle (LMA).
+  
+### Solar neutrino/reactor neutrino experiment:
+* SAGE (Soviet-American Gallium Experiment)
+  * Inverse $\beta$ decay is used to detect the $\nu_e$
+  $$
+    \nu_{e} + Ga \rightarrow Ge + e^{-}
+  $$
+* GALLEX
+* CHOOZ
+* RENO
+* KamLAND
+* SNO
+* Kamiokande
+* Kamiokande II
+* Super Kamiokande
+* etc..
+* **These experiments observe $\nu_e \rightarrow \nu_{\mu}$ oscillation. Which measures $\theta_{12}$ mixing angle.**
+* In 1998, SK confimed confirmed solar neutrino deficit in $^{8}$ Be solar neutrinos.
+* In 1999, SAGE or GALLAX measured solar neutrino in flux using Ga.
+
+
+#### Day night asymmetry in Solar neutrino flux:
+
+* **[Q] What is Day-night asymmetry in solar neutrino measurement??**
+
+#### SNO:
+
+* Used 1kton of $D_{2}O$ and the photons are detected using PMTs.
+
+
+### Hyper-Kamiokande and Nucleon decay (Makoto Miura, ICRR Tokyo)
+
+* Baryon number violation is not usullay observed till now
+* GUT : SU(5) symmetry group.
+* This was introduced by Georgi and Glashow.
+  * Under this baryon number violation can occurs via new Gauge boson.
+* Proton decays via:
+  $$
+    P \rightarrow e^{+} + \pi^{0}
+  $$
+  * GUT approximates lifetime of proton is > 10$^{30}$ years.
+  * That's why we need huge detectors.
