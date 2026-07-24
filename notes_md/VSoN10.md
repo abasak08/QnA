@@ -954,3 +954,14 @@ Where, $\theta_c$ is the Cherenkov angle, $\beta = v/c$ and n is the refractive 
   $$
   * GUT approximates lifetime of proton is > 10$^{30}$ years.
   * That's why we need huge detectors.
+  
+  ## Day 9 (24th July 2026)
+  
+  ### Miniporject comments:
+
+  * **[Q] Is there anyother way to sharpen the beam?**
+    * Muon factory produces a shap beam.
+    * Another way is to put magnets just after horn, to remove the wrong sign pion particles.
+  * **[Q] What are more advantages of on axis beam??**
+    * Broad range of beam can help us to probe second maxima in $\nu_e$ which is sensitivte to $\delta_{CP}$.
+      * **[Q] why at second maxima we see sensitivity of $\delta_{CP}$??**
